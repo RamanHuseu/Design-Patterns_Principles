@@ -1,1 +1,6 @@
-# repos
+Use your previously created solution as a base for this task.
+Adjust your architecture with a Patterns described in the presentation:
+Page Object (required);
+Factory (optional);
+Singleton (required);
+Builder (optional);
